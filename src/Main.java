@@ -132,5 +132,6 @@ public class Main {
             System.out.println("should be:");
             System.out.println("|  carnation 250  |  rose 525  |  daffodil 220  |  tulip 310  |  daisy  |");
         }
+        System.out.println("----");
     }
 }
